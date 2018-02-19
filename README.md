@@ -22,7 +22,7 @@ In the above example, numpy.array() is used to convert a list into a NumPy array
 Example:
 
 You are given a space separated list of numbers. 
-Your task is to print a reversed NumPy array with the element type float.
+print a reversed NumPy array with the element type float.
 
 Input Format
 
